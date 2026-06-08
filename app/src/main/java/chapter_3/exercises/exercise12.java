@@ -5,7 +5,7 @@ determines whether it's a palindrome integer. An integer is a palindrome if it r
 from right to left and from left to right. A negative integer is treated the same as a positive
 integer */
 
-public class exercise11 {
+public class exercise12 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a three-digit integer: ");
